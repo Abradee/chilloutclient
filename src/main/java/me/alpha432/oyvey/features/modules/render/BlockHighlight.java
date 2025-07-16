@@ -12,7 +12,7 @@ import java.awt.*;
 
 public class BlockHighlight extends Module {
     public BlockHighlight() {
-        super("BlockHighlight", "Draws box at the block that you are looking at", Category.RENDER, true, false, false);
+        super("coolhighlight", "Draws box at the block that you are looking at", Category.RENDER, true, false, false);
     }
 
     @Subscribe
