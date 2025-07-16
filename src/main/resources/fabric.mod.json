@@ -2,15 +2,13 @@
   "schemaVersion": 1,
   "id": "oyvey",
   "version": "${version}",
-  "name": "oyvey-ported",
-  "description": "free and opensource client base",
+  "name": "chillout-client",
+  "description": "W OPEN SOURCE CLIENT :D :D",
   "authors": [
-    "3arthqu4ke",
-    "alpha432",
-    "cattyn"
+    "abradee",
   ],
   "contact": {
-    "repo": "https://github.com/cattyngmd/oyvey-portedvey-ported"
+    "repo": "https://github.com/Abradee/chilloutclient/"
   },
   "license": "MIT",
   "environment": "client",
